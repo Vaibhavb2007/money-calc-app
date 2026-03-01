@@ -1,4 +1,10 @@
 # Smart Money Calc & Scientific Calculator
+## 📱 App Preview
+
+| Web Version | Mobile Version |
+| :---: | :---: |
+| ![Web Screenshot](./assets/images/web-screenshot.png) | ![App Screenshot](./assets/images/app-screenshot.png) 
+
 
 A professional dual-purpose application built with **React Native** and **Expo**.
 
