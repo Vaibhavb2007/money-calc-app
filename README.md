@@ -3,7 +3,7 @@
 
 | Web Version | Mobile Version |
 | :---: | :---: |
-| ![Web Screenshot](./assets/images/1web-screenshot.png) | ![App Screenshot](./assets/images/app-screenshot.png) 
+| ![Web Screenshot](./assets/images/1 web-screenshot.png) | ![App Screenshot](./assets/images/app-screenshot.png) 
 
 
 A professional dual-purpose application built with **React Native** and **Expo**.
